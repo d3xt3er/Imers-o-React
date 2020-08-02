@@ -1,14 +1,11 @@
 # Imers-o-React
 <p align="center">
-  <img src="logo-horizontal.png">
-</p>
-
-## AluraFlix by Alura
-<p align="center">
   <img src="logo-alura-header.png">
 </p>
 
-<p align="center">
+## AluraFlix by Alura
+
+<p align="center" width="300" height="300">
   <img src="LogoMain.png">
 </p>
 
@@ -18,13 +15,13 @@
 1. React.js
 1. ESlint
 1. Concurrently
-1.  Json-server
+1. Json-server
 1. Prop-types
-1.  react-dom
+1. react-dom
 1. react-router-dom
 1. react-scripts
 1. react-slick": 
-1.  styled-components
+1. styled-components
 
 <hr>
 
