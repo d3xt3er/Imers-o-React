@@ -14,6 +14,8 @@
 
 1. Node.js
 1. React.js
+1. Heroku Hospedagem Back-End
+1. Vercel Hospedagem Front-End
 1. ESlint
 1. Concurrently
 1. Json-server
