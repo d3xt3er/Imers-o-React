@@ -4,7 +4,7 @@ const URL_VIDEOS = `${config.URL_BACKEND_TOP}/videos`;
 
 function create(objetoDoVideo) {
   return fetch(`${URL_VIDEOS}?_embed=videos`, {
-    method: 'POST',
+    method: "POST",
     headers: {
       'Content-type': 'application/json',
     },

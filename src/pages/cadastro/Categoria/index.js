@@ -96,7 +96,7 @@ function CadastroCategoria() {
 
       {categorias.length === 0 && (
         <div>
-          {/* Carregando... */}
+          {/* Cargando... */}
           Loading...
         </div>
       )}
@@ -115,5 +115,5 @@ function CadastroCategoria() {
     </PageDefault>
   );
 }
-  
+
 export default CadastroCategoria;

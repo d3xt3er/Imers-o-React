@@ -129,5 +129,4 @@ FormField.propTypes = {
   suggestions: PropTypes.arrayOf(PropTypes.string),
 };
 
-
 export default FormField;
