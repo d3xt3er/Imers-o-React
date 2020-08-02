@@ -5,9 +5,11 @@
 
 ## AluraFlix by Alura
 
-<p align="center" width="300" height="300">
+<p align="center" width="200" height="200">
   <img src="LogoMain.png">
 </p>
+
+<hr>
 
 ### Tecnologias
 
