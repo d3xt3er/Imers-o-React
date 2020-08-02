@@ -5,7 +5,7 @@
 
 ## AluraFlix by Alura
 
-<p align="center" width="200" height="200">
+<p align="center" width="200" height="400">
   <img src="LogoMain.png">
 </p>
 
