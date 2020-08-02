@@ -1,7 +1,6 @@
 # Imers-o-React
-<p align="center">
-  <img src="logo-alura-header.png">
-</p>
+<img src="logo-alura-header.png">
+
 
 ## AluraFlix by Alura
 
@@ -28,5 +27,7 @@
 <hr>
 
 <p>
+  
+### Descrição  
 O projeto se trata de uma "Netflix" de teconologias onde é possivel cadastrar as categorias de videos e videos diversos 
 </p>
