@@ -33,3 +33,8 @@
 ### Descrição  
 O projeto se trata de uma "Netflix" de teconologias onde é possivel cadastrar as categorias de videos e videos diversos 
 </p>
+
+<hr>
+
+### Site desenvolvido
+[AluraFlix](https://imers-o-react.vercel.app/ "AluraFlix")
