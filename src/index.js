@@ -5,7 +5,7 @@ import './index.css';
 
 import { BrowserRouter, Switch, Route } from 'react-router-dom';
 import Home from './pages/Home';
-import CadastroVideo from './pages/cadastro/Video';
+import CadastroVideo from './pages/cadastro/Videos';
 import CadastroCategoria from './pages/cadastro/Categoria';
 
 // Desafio master blaster na descrição
